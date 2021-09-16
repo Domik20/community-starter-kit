@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot App is welcome-bot created by Mona team.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Probot is an open source framework that allows you to create GitHub apps to automate your GitHub workflow.
 
 ## Getting started
 
